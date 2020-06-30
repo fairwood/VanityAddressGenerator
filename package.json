@@ -1,0 +1,28 @@
+{
+  "name": "vanityaddressgenerator",
+  "version": "1.0.0",
+  "description": "Generate Bitcoin vanity addresses.",
+  "main": "main.js",
+  "dependencies": {
+    "bsv": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairwood/VanityAddressGenerator.git"
+  },
+  "keywords": [
+    "Bitcoin",
+    "BSV",
+    "blockchain"
+  ],
+  "author": "Stephen Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fairwood/VanityAddressGenerator/issues"
+  },
+  "homepage": "https://github.com/fairwood/VanityAddressGenerator#readme"
+}
