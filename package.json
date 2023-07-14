@@ -4,7 +4,7 @@
   "description": "Generate Bitcoin vanity addresses.",
   "main": "main.js",
   "dependencies": {
-    "bsv": "^1.5.3"
+    "bsv": "^1.5.6"
   },
   "devDependencies": {},
   "scripts": {
